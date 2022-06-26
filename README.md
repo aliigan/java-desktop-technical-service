@@ -11,47 +11,23 @@ OOP | Back-end, Design
 ## Images
 | Login |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-current-account/blob/main/img/login.png" >|
+|<img src="https://github.com/aliigan/java-desktop-technical-service/blob/main/img/Login.png" >|
 
-| Change Password |
+| Dashboard |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-current-account/blob/main/img/cp.png" >|
+|<img src="https://github.com/aliigan/java-desktop-technical-service/blob/main/img/Dashboard.png" >|
 
-| Customer |
+| Customer Operations |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-current-account/blob/main/img/customer.png" >|
+|<img src="https://github.com/aliigan/java-desktop-technical-service/blob/main/img/AddCustomer.png" >|
 
-- With the Customer page, customers can add, delete, update and search the customer table.
-
-| Salles Management |
+| Service Management |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-current-account/blob/main/img/salesM.png" >|
+|<img src="https://github.com/aliigan/java-desktop-technical-service/blob/main/img/Service.png" >|
 
-| Basket |
+| Completed |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-current-account/blob/main/img/basket.png" >|
-
-| Report |
-| ------------ |
-|<img src="https://github.com/maruf04/java-desktop-current-account/blob/main/img/report.png" >|
-
-| Product |
-| ------------ |
-|<img src="https://github.com/maruf04/java-desktop-current-account/blob/main/img/products.png" >|
-
-- With the Product page, customers can add, delete, update and search the customer table.
-
-
-| User Settings |
-| ------------ |
-|<img src="https://github.com/maruf04/java-desktop-current-account/blob/main/img/userSt.png" >|
-
-| Category |
-| ------------ |
-|<img src="https://github.com/maruf04/java-desktop-current-account/blob/main/img/categori.png" >|
-
-- With the Category page, customers can add, delete, update and search the customer table.
-
+|<img src="https://github.com/aliigan/java-desktop-technical-service/blob/main/img/Completed.png" >|
 
 ## Demo Account
 E-Mail  | Password
